@@ -22,8 +22,9 @@ title: JBDavid - Mixed-Signal Functional Verification
 email: jbdavid@jbdavid.com
 description: >- # this means to ignore newlines until "baseurl:"
   Bringing decades of experience to the semiconductor industry 
-  to expand rapid project success beyond the digital domain
+  to expand rapid project success beyond the digital domain.
 baseurl: "" # the subpath of your site, e.g. /blog
+copyright: website jbdavid.com © 2025 - Jonathan B. David  - all rights reserved
 url: "http://jbdavid.com" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: jbdavid
 github_username:  jbdavid77

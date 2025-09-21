@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Choose the Right Tools"
-date:   2025-09-22
+date:   2025-09-22 
 categories: tooling
 excerpt_separator: <!--more-->
 ---
